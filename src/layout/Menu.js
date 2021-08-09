@@ -29,7 +29,7 @@ function Menu() {
             </li>
           </ul>
           <ul className="navbar-nav">
-            <li className="nav-item">
+            <li className="nav-item row">
               <Link className="nav-link active" to="/observations/new">
                 <span className="oi oi-flash fs-2"></span>
                 &nbsp;New Observation
